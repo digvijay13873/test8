@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - main
+      - flutterflow
       
 # This workflow is triggered on pushes to the repository.
 # on: push    # Default will running for every branch.
